@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+seaborn
+biopython
+scipy
+scikit-learn
+notebook
+nbconvert

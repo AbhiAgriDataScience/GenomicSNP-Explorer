@@ -1,0 +1,25 @@
+name: genomic_analysis_env
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  # Python dependencies
+  - python=3.9
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - biopython
+  - scipy
+  - scikit-learn
+
+  # Bioinformatics tools
+  - sra-tools # provides prefetch and fasterq-dump
+  - bwa	      # for bwa-mem alignment
+  - trimmomatic
+  - samtools
+  - bcftools
+  - fastqc
+  - htslib    # includes bgzip and tabix
+  

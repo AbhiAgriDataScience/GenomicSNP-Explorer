@@ -1,0 +1,17 @@
+# SN, Summary numbers:
+#   number of SNPs      .. number of rows with a SNP
+#   number of multiallelic SNP sites .. number of rows with multiple alternate alleles, all SNPs
+#   counter. For example, a row with a SNP and an indel increments both the SNP and
+# SN	[2]id	[3]key	[4]value
+SN	0	number of samples:	1
+SN	0	number of records:	7877560
+SN	0	number of no-ALTs:	0
+SN	0	number of SNPs:	7387325
+SN	0	number of MNPs:	0
+SN	0	number of indels:	490235
+SN	0	number of others:	0
+SN	0	number of multiallelic sites:	28552
+SN	0	number of multiallelic SNP sites:	24889
+# SiS	[2]id	[3]allele count	[4]number of SNPs	[5]number of transitions	[6]number of transversions	[7]number of indels	[8]repeat-consistent	[9]repeat-inconsistent	[10]not applicable
+# AF	[2]id	[3]allele frequency	[4]number of SNPs	[5]number of transitions	[6]number of transversions	[7]number of indels	[8]repeat-consistent	[9]repeat-inconsistent	[10]not applicable
+# QUAL	[2]id	[3]Quality	[4]number of SNPs	[5]number of transitions (1st ALT)	[6]number of transversions (1st ALT)	[7]number of indels

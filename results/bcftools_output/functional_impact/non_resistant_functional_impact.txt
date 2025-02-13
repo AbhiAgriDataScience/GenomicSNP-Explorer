@@ -1,0 +1,11 @@
+   6930 .
+1202120 chromosome:1
+ 643934 chromosome:10
+ 896699 chromosome:2
+ 889773 chromosome:3
+ 925495 chromosome:4
+ 703953 chromosome:5
+ 664438 chromosome:6
+ 686523 chromosome:7
+ 703731 chromosome:8
+ 553964 chromosome:9

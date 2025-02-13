@@ -1,0 +1,11 @@
+   5841 .
+ 735802 chromosome:1
+ 369262 chromosome:10
+ 784981 chromosome:2
+ 731529 chromosome:3
+ 727747 chromosome:4
+ 651670 chromosome:5
+ 392690 chromosome:6
+ 549443 chromosome:7
+ 453270 chromosome:8
+ 442445 chromosome:9
